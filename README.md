@@ -7,8 +7,6 @@ Pokedex
 
 ![Screenshot](https://github.com/Devloops/Pokedex/blob/master/screenshots/2.png "screenshot iOS")
 
-![Screenshot](https://github.com/Devloops/Pokedex/blob/master/screenshots/3.png "screenshot iOS")
-
 ## Tests
 #### Works on
 * iOS 9.0 and highr
